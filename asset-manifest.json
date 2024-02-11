@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/memorygame/static/css/main.68d4eefb.css",
+    "main.js": "/memorygame/static/js/main.509a565d.js",
+    "static/media/cover.png": "/memorygame/static/media/cover.565246a0d68de78ed4cc.png",
+    "static/media/shield.png": "/memorygame/static/media/shield.8dc12cd444fcb2d6076f.png",
+    "static/media/potion.png": "/memorygame/static/media/potion.fc8fbaaaf2194edfffa1.png",
+    "static/media/helmet.png": "/memorygame/static/media/helmet.d082cb3c8e66546d8921.png",
+    "static/media/scrol.png": "/memorygame/static/media/scrol.72334043749fed3d87a0.png",
+    "static/media/sword.png": "/memorygame/static/media/sword.098a17565be0e6ce57da.png",
+    "static/media/ring.png": "/memorygame/static/media/ring.2c60d049dfd8509da0cf.png",
+    "index.html": "/memorygame/index.html",
+    "main.68d4eefb.css.map": "/memorygame/static/css/main.68d4eefb.css.map",
+    "main.509a565d.js.map": "/memorygame/static/js/main.509a565d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.68d4eefb.css",
+    "static/js/main.509a565d.js"
+  ]
+}
