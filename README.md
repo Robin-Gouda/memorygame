@@ -31,3 +31,4 @@ You can try out the game here: https://robin-gouda.github.io/memorygame/
 
 ## Contact
 If you have any questions or suggestions, feel free to reach out!
+- robin2contact@gmail.com
